@@ -1,0 +1,6 @@
+{
+  "name": "RAB 4K Dolby Media Player",
+  "description": "High-performance Android TV 4K HDR and Dolby media player with bitstream passthrough, dual audio, and network stream support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

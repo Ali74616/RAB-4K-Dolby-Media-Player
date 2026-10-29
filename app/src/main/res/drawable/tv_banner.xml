@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="320dp"
+    android:height="180dp"
+    android:viewportWidth="320"
+    android:viewportHeight="180">
+    <!-- Dark elegant background with radial subtle glow -->
+    <path
+        android:fillColor="#0D1117"
+        android:pathData="M0,0h320v180h-320z" />
+    <path
+        android:fillColor="#151E28"
+        android:pathData="M0,0h320v120h-320z" />
+    <!-- Blue accent bottom bar -->
+    <path
+        android:fillColor="#1E9BD7"
+        android:pathData="M0,174h320v6h-320z" />
+    <!-- 4K Badge -->
+    <path
+        android:fillColor="#1E9BD7"
+        android:pathData="M30,30h50v24h-50z" />
+    <!-- Dolby Badge -->
+    <path
+        android:fillColor="#252F3F"
+        android:pathData="M88,30h70v24h-70z" />
+    <!-- Play Icon in center -->
+    <path
+        android:fillColor="#1E9BD7"
+        android:pathData="M145,72 L185,96 L145,120 Z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M150,78 L180,96 L150,114 Z" />
+</vector>
